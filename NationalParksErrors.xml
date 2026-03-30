@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Errors: (1) root is NationalPark, (2) Yellowstone missing NearestAirport,
-     (3) Yosemite missing Phone, (4) Zion Address unclosed, (5) Rocky Mountain two Names -->
+<!-- Errors: 
+1.) root is NationalPark
+2.) Yellowstone missing NearestAirport
+3.) Yosemite missing Phone
+4.) Zion Address unclosed
+5.) Rocky Mountain two Names -->
 <NationalPark>
 
   <NationalPark Rating="4.9">
